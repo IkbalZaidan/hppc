@@ -3179,7 +3179,8 @@ body.active-preloader-ovh {
   text-align: center;
   padding: 40px;
 }
-.brand-carousel-wrapper .brand-carousel i {
+.brand-carousel-wrapper .brand-carousel i img {
+  width: 180px !important;
   color: #636E7A;
   font-size: 150px;
   -webkit-transition: all .4s ease;
@@ -3189,9 +3190,11 @@ body.active-preloader-ovh {
 .brand-carousel-wrapper .brand-carousel i:hover {
   opacity: .3;
 }
+
 .brand-carousel-wrapper .owl-theme .owl-nav {
   display: none;
 }
+
 
 /************************** 
 * 20. blog styles 
