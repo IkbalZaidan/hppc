@@ -3350,6 +3350,7 @@ body.active-preloader-ovh {
 }
 
 @media (max-width: 1110px) {
+  
   .cta-style-two .cta-style-two-2 {
     padding: 86px 79px;
   }
@@ -4525,6 +4526,18 @@ body.active-preloader-ovh {
 
 .sidebar .single-sidebar .single-recent-post .text-box p i {
   margin-right: 5px;
+}
+
+@media (max-width: 1025px) {
+
+.brand-carousel-wrapper .brand-carousel i img {
+  width: 270px !important;
+  color: #636E7A;
+  font-size: 150px;
+  -webkit-transition: all .4s ease;
+  transition: all .4s ease;
+  opacity: .8;
+}
 }
 
 /*# sourceMappingURL=style.css.map */
