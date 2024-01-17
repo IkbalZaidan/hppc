@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'bands-icon';
-  src:  url('fonts/bands-icon.eot?292vk');
-  src:  url('fonts/bands-icon.eot?292vk#iefix') format('embedded-opentype'),
-    url('fonts/bands-icon.ttf?292vk') format('truetype'),
-    url('fonts/bands-icon.woff?292vk') format('woff'),
-    url('fonts/bands-icon.svg?292vk#bands-icon') format('svg');
+  src:  url('../../plugins/bands-icon/fonts/bands-icon.eot?292vk');
+  src:  url('../../plugins/bands-icon/fonts/bands-icon.eot?292vk#iefix') format('embedded-opentype'),
+    url('../../plugins/bands-icon/fonts/bands-icon.ttf?292vk') format('truetype'),
+    url('../../plugins/bands-icon/fonts/bands-icon.woff?292vk') format('woff'),
+    url('../../plugins/bands-icon/fonts/bands-icon.svg?292vk#bands-icon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
